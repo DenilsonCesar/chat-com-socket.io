@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ejs": "^2.6.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "16.8.6",
     "react-native": "0.60.5",
     "socket.io": "^2.2.0",
